@@ -5,4 +5,5 @@ sudo apt-get install \
   libmysqld-dev \
   apache2 \
   chromium-browser \
-  filezilla
+  filezilla \
+  trash-cli
